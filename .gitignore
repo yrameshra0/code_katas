@@ -1,0 +1,6 @@
+## IntelliJ Idea Project
+*.iml
+.idea
+
+## Java target 
+*target
