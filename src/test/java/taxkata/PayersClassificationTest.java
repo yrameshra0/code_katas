@@ -1,7 +1,9 @@
-import static org.hamcrest.MatcherAssert.assertThat;
+package taxkata;
 
 import org.junit.Test;
 import org.mockito.internal.matchers.InstanceOf;
+
+import static org.hamcrest.MatcherAssert.assertThat;
 
 public class PayersClassificationTest {
     @Test

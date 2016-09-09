@@ -1,3 +1,5 @@
+package taxkata;
+
 import org.junit.Test;
 
 public class FemaleTaxCalculatorTest extends AbstractTaxCalculatorTest {

@@ -1,12 +1,13 @@
-import static org.hamcrest.MatcherAssert.assertThat;
-import static org.hamcrest.core.Is.is;
-import static org.mockito.Mockito.*;
+package taxkata;
 
 import org.junit.Before;
 import org.junit.Test;
 
-public class IndividualTest {
+import static org.hamcrest.MatcherAssert.assertThat;
+import static org.hamcrest.core.Is.is;
+import static org.mockito.Mockito.*;
 
+public class IndividualTest {
     TaxCalculator taxCalculator = mock(TaxCalculator.class);
     PayersClassification payersClassification = mock(PayersClassification.class);
 

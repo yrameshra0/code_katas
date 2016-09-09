@@ -1,8 +1,7 @@
+package taxkata;
+
 import org.junit.Test;
 
-/**
- * Created by yrameshrao on 11/05/16.
- */
 public class CommonTaxCalculatorTest extends AbstractTaxCalculatorTest {
 
     @Override

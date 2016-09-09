@@ -1,3 +1,5 @@
+package taxkata;
+
 public class PayersClassification {
     private final int age;
     private final Individual.Gender gender;

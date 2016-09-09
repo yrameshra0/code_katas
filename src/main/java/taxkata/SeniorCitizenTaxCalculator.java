@@ -1,3 +1,5 @@
+package taxkata;
+
 import java.math.BigDecimal;
 
 public class SeniorCitizenTaxCalculator implements TaxCalculator {

@@ -1,3 +1,5 @@
+package dsandalgoskata.graphnodepathsearch;
+
 import java.util.LinkedList;
 
 public class GraphNodePathSearch {

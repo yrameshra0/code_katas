@@ -1,3 +1,5 @@
+package dsandalgoskata.graphnodepathsearch;
+
 import org.junit.Test;
 
 import static java.util.Arrays.asList;

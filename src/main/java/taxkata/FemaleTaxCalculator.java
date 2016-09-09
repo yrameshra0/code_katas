@@ -1,3 +1,5 @@
+package taxkata;
+
 import java.math.BigDecimal;
 
 public class FemaleTaxCalculator implements TaxCalculator {

@@ -1,3 +1,5 @@
+package dsandalgoskata.graphnodepathsearch;
+
 import java.util.List;
 
 public class Node {
